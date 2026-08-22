@@ -1,0 +1,29 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BlocC_F3_Cuisine ouverte
+
+## Skin
+
+### Label
+Label_8270A9AA_98FA_D037_41CF_B006F9B3B68B.text = Bloc C F3 Type 2 
+
+## Media
+
+### Title
+panorama_38D2C7D2_2A1B_3E64_41C2_4B36998D0435.label = Chambre 2
+panorama_38D303A7_2A1B_D62C_41C4_B70750457191.label = Cuisine
+panorama_38D31FD8_2A1B_CE64_41C4_477EC7450391.label = Salon
+panorama_38D34E30_2A1B_CE24_41BB_692B6C9DB3A1.label = Couloir
+panorama_38D375BC_2A1B_F223_41C0_E2B76060E6E3.label = Salle de bain
+panorama_38D379B8_2A1B_D223_41BB_3831BBAA0E0E.label = Entrée
+panorama_39F7B1D4_2A1B_326C_4197_5D9386C93C1F.label = Chambre 1
+
+## Action
+
+### URL
+LinkBehaviour_F058D8A2_E3D4_CE42_41D3_D3FDE670FA78.source = https://lotfipromotion.com/
